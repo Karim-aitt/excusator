@@ -1,0 +1,2 @@
+# excusator
+Excuse generator
