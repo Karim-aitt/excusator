@@ -1,0 +1,11 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+* {
+  border: 1px solid red;
+}
+
+.padre {
+  margin: 100px auto;
+}
+.excuse {
+  margin: 100px;
+}
