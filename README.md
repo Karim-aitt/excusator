@@ -1,2 +1,2 @@
 # excusator
-Excuse generator
+Excuse generator [here](https://karim-aitt.github.io/excusator/)
